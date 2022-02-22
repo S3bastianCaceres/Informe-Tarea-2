@@ -674,7 +674,7 @@ Aqui den estar el link de youtube de los videos en los que se explique el funcio
 
 # 5. CONCLUSIONES #
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+-Para la hacer analicis en los circuitos AC debemos tener en cuenta como se hacen operaciones con numeros imaginarios, y como estos pueden cambiar de forma rectangular a una forma rectangular, hay que tener presente que las operaciones de suma y resta de numeros imaginarios mejor se adapta a los numeros complejos en su forma rectangular, y la multiplicacion y division se adapta o es más facil operar en su forma polar.
 
 # 6. BIBLIOGRAFÍA #
 

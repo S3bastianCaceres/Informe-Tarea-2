@@ -4,7 +4,15 @@
 
 **OBJETIVO GENERAL**
 
+Estudiar y Analizar los sistemas de números complejos para asi expresar cantidades fasoriales las cuales se aplicaran a circuitos RC y RL en serie y en paralelo básicos, estudiando asi potencias verdaderas, reactivas y aparentes, ademas de algunas aplicaciones como en osciladores, filtros entre otras cosas.
+
 **OBJETIVOS ESPECIFICOS**
+
+- Usar números complejos para expresar cantidades fasoriales para resolver circuitos RC y RL
+- Describir la relación entre corriente y voltaje en un circuito RC y RL tanto en serie como en paralelo
+- Analizar potencia en circuitos RC y RL
+- Determinar aplicaciones básicas de RC y RL 
+- Localizar fallas en circuitos RC y RL
 
 # 2.MARCO TEÓRICO (RESUMEN) #
 
@@ -670,5 +678,9 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 # 6. BIBLIOGRAFÍA #
 
-Emplear normas APA.
+Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
+
+J.L, B. (2021, 10 noviembre). ¿Qué es un Circuito RL: Funcionamiento y sus Usos. Electrónica Online. https://electronicaonline.net/electronica/circuito-rl-funcionamiento-usos/
+
+C. (2022, 30 enero). Circuitos de primer orden – Circuitos RC y RL. dademuchconnection. https://dademuch.com/2019/11/01/circuitos-de-primer-orden-circuitos-rc-y-rl/
 

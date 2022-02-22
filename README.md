@@ -1,31 +1,27 @@
 # Informe-Tarea-2
  
-1. OBJETIVOS
+# 1. OBJETIVOS #
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación.
+**OBJETIVO GENERAL**
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados.
+**OBJETIVOS ESPECIFICOS**
 
-Los objetivos de investigación deben cumplir ciertas características:
-
-    Deben ser concretos, cuantificables, verificables
-    Deben estar redactados utilizando verbos en infinitivo
-    Deben ser alcanzables por el investigador.
-    Tienen que estar ligados con el tiempo.
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos.
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos.
-
-Considerar la Taxonomía de Bloom
-
-2.MARCO TEÓRICO (RESUMEN)
+# 2.MARCO TEÓRICO (RESUMEN) #
 
 **CAPITULO 15**
 
 ![Image text](https://github.com/S3bastianCaceres/Informe-Tarea-2/blob/main/TAREA%202%203P.png)
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+**CAPITULO 16**
+
+![png](https://user-images.githubusercontent.com/93739242/155217818-975965ac-4357-466e-81d7-f9045d7b14ca.png)
+
+![png (1)](https://user-images.githubusercontent.com/93739242/155219314-71a7c8d6-9406-49b0-8b78-e06097606edc.png)
+
+![png (2) (1)](https://user-images.githubusercontent.com/93739242/155219349-7a568732-9125-4692-909e-da8eadebc2be.png)
+
+
+# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
 **CAPITULO 15**
 
@@ -664,15 +660,15 @@ Al igual que el caso cuando se abrió L1, si se abre L2, ya no hay un circuito c
 <img src="https://latex.codecogs.com/svg.image?\\\textit{Sin&space;R2&space;nuestro&space;crcuito&space;mantiene&space;una&space;parte&space;en&space;paralelo}\\[5pt]R_{eq}=\frac{R_{1}R_{3}}{R_{1}&plus;R_{3}}=\frac{(100\Omega&space;)(56\Omega&space;)}{100\Omega&space;&plus;56\Omega}=35.9\Omega&space;\\[5pt]Z_{T}=R_{eq}&plus;jX_{L1}&plus;jX_{L2}\\[5pt]Z_{T}=35.9\Omega&space;&plus;j50.3\Omega&space;&plus;j25.1\Omega&space;=35.9\Omega&space;&plus;j75.4\Omega&space;\\[5pt]\textit{En&space;forma&space;polar}\\[5pt]Z_{T}=\sqrt{(35.9\Omega&space;)^{2}&plus;(75.4\Omega&space;)^{2}}\angle&space;tan^{-1}(\frac{75.4\Omega&space;}{35.9\Omega&space;})=83.5\angle&space;64.5^{\circ}\Omega&space;\\[5pt]\textit{Usamos&space;el&space;divisor&space;de&space;voltaje&space;para&space;encontrar&space;el&space;voltaje&space;de&space;salida}\\[5pt]V_{OUT}=(\frac{R_{eq}}{Z_{T}})V_{s}=(\frac{35.9\angle&space;0^{\circ}\Omega&space;}{83.5\angle&space;64.5^{\circ}V})(5\angle&space;0^{\circ}V)=2.15\angle&space;-64.5^{\circ}V&space;" title="\\\textit{Sin R2 nuestro crcuito mantiene una parte en paralelo}\\[5pt]R_{eq}=\frac{R_{1}R_{3}}{R_{1}+R_{3}}=\frac{(100\Omega )(56\Omega )}{100\Omega +56\Omega}=35.9\Omega \\[5pt]Z_{T}=R_{eq}+jX_{L1}+jX_{L2}\\[5pt]Z_{T}=35.9\Omega +j50.3\Omega +j25.1\Omega =35.9\Omega +j75.4\Omega \\[5pt]\textit{En forma polar}\\[5pt]Z_{T}=\sqrt{(35.9\Omega )^{2}+(75.4\Omega )^{2}}\angle tan^{-1}(\frac{75.4\Omega }{35.9\Omega })=83.5\angle 64.5^{\circ}\Omega \\[5pt]\textit{Usamos el divisor de voltaje para encontrar el voltaje de salida}\\[5pt]V_{OUT}=(\frac{R_{eq}}{Z_{T}})V_{s}=(\frac{35.9\angle 0^{\circ}\Omega }{83.5\angle 64.5^{\circ}V})(5\angle 0^{\circ}V)=2.15\angle -64.5^{\circ}V " />
 
 
-4. VIDEO
+# 4. VIDEO #
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-5. CONCLUSIONES
+# 5. CONCLUSIONES #
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-6. BIBLIOGRAFÍA
+# 6. BIBLIOGRAFÍA #
 
 Emplear normas APA.
 
